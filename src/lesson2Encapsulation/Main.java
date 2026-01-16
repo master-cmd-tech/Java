@@ -1,4 +1,4 @@
-package lesson2;
+package lesson2Encapsulation;
 
 public class Main {
     public static void main(String[] args) {

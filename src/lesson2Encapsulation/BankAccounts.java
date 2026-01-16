@@ -1,4 +1,4 @@
-package lesson2;
+package lesson2Encapsulation;
 
 public class BankAccounts {
     private BankAccount[] accounts;

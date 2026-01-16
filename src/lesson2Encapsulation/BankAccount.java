@@ -1,4 +1,4 @@
-package lesson2;
+package lesson2Encapsulation;
 
 public class BankAccount {
     private int cents;

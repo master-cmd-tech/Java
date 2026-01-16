@@ -1,4 +1,4 @@
-package lesson1;
+package lesson1ClassObjectMethodsConstructorsAccessmodifiersGetterSetter;
 
 public class Student {
     private int id;
