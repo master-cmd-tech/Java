@@ -1,4 +1,4 @@
-package practive08GenerateRandomNumbers;
+package practice08GenerateRandomNumbers;
 
 import java.util.Random;
 
